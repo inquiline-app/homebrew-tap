@@ -1,6 +1,6 @@
 cask "inquiline" do
-  version "0.8.0"
-  sha256 "69c37548dae55890bb80271a717a47f3e98143169ba4ab7f5232f85ea1673d6f"
+  version "0.9.0"
+  sha256 "9acb1274bb604ae2abcb043f1f4e2f5dcfbee476188ccfda698f619c8b00e77e"
 
   url "https://github.com/inquiline-app/inquiline/releases/download/v#{version}/Inquiline-#{version}-arm64.dmg"
   name "Inquiline"
